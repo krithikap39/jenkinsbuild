@@ -11,6 +11,6 @@ def calculate_iterations():
 
 
 if __name__ == '__main__':
-    #sample project to understand jenkins trigerred by GIT changes (SCM)
+    #Sample project to understand jenkins trigerred by GIT changes (SCM)
     iteration = calculate_iterations()
     print("Number of iterations: "+str(iteration))

@@ -11,6 +11,6 @@ def calculate_iterations():
 
 
 if __name__ == '__main__':
-    #sample project
+    #sample project to understand jenkins
     iteration = calculate_iterations()
     print("Number of iterations: "+str(iteration))
